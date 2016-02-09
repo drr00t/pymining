@@ -7,3 +7,6 @@ tags
 /.tox
 MANIFEST
 /pymining.egg-info
+.coverage
+.idea/
+
